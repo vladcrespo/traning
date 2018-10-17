@@ -1,0 +1,7 @@
+c:\users\кудрявцев_в\Documents\C#\source\repos\oop_lesson1\oop_lesson1\bin\Debug\oop_lesson1.exe.config
+c:\users\кудрявцев_в\Documents\C#\source\repos\oop_lesson1\oop_lesson1\bin\Debug\oop_lesson1.exe
+c:\users\кудрявцев_в\Documents\C#\source\repos\oop_lesson1\oop_lesson1\bin\Debug\oop_lesson1.pdb
+c:\users\кудрявцев_в\Documents\C#\source\repos\oop_lesson1\oop_lesson1\obj\Debug\oop_lesson1.csprojResolveAssemblyReference.cache
+c:\users\кудрявцев_в\Documents\C#\source\repos\oop_lesson1\oop_lesson1\obj\Debug\oop_lesson1.csproj.CoreCompileInputs.cache
+c:\users\кудрявцев_в\Documents\C#\source\repos\oop_lesson1\oop_lesson1\obj\Debug\oop_lesson1.exe
+c:\users\кудрявцев_в\Documents\C#\source\repos\oop_lesson1\oop_lesson1\obj\Debug\oop_lesson1.pdb
